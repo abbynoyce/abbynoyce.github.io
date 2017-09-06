@@ -1,0 +1,6 @@
+# More config variables
+
+RG_id: Abigail_Noyce
+
+pdf: {{site.url site.baseurl "/img/pdf.svg"}}
+web: {{site.url site.baseurl "/img/web.svg"}}

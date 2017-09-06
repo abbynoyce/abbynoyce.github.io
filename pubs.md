@@ -1,0 +1,104 @@
+---
+layout: page
+title: Presentations and Publications
+permalink: /pubs/
+---
+
+### Peer-reviewed publications
+
+* **Noyce, A. L.**, Cestero, N., Michalka, S. W., Shinn-Cunningham, B. G., & Somers, D. C. (forthcoming). Sensory-biased and multiple-demand processing in human lateral frontal cortex. *Journal of Neuroscience*.
+* **Noyce, A. L.**, Cestero, N., Shinn-Cunningham, B. G., & Somers, D. C. (2016). Short-term memory stores are organized by information domain. *Attention, Perception, & Psychophsyics, 78*, 960-970.
+[![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://link.springer.com/article/10.3758/s13414-015-1056-5)
+* **Noyce, A.** & Sekuler, R. (2014). Oddball distractors demand attention: Neural and behavioral responses to predictability in the flanker task. *Neuropsychologia, 65*, 18–24. 
+[![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://www.sciencedirect.com/science/article/pii/S0028393214003625)
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{ "/pdf/2014NoyceSekulerNeuropsychologia.pdf" | prepend: site.baseurl }})
+* **Noyce, A.** & Sekuler, R. (2014). Violations of newly-learned predictions elicit two distinct P3 components. *Frontiers in Human Neuroscience, 8*, 374. 
+[![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://journal.frontiersin.org/article/10.3389/fnhum.2014.00374/abstract) 
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{ "/pdf/2014NoyceSekulerFrontiers.pdf" | prepend: site.baseurl }})
+* \*Maryott, J., \***Noyce, A.**, & Sekuler, R. (2011). Eye movements and imitation learning: Intentional disruption of expectation. *Journal of Vision, 11*(1:7), 1–16. 
+[![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2191765) 
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2011MaryottNoyceSekulerJoV.pdf" | prepend: site.baseurl }}) <br /> *authors contributed equally
+
+### Conference presentations
+
+#### Talks
+
+* **Noyce, A. L.**, Tobyne, S. M., Michalka, S. W., Osher, D. E., Shinn-Cunningham, B. G., & Somers, D. C. (2016, May). “Visual, spatial, or visuospatial? Disentangling sensory modality and task demands in frontal cortex.” Presented at the annual meeting of the Vision Sciences Society, St. Pete Beach, FL.
+
+* **Noyce, A. L.**, Michalka, S. W., Cestero, N., Shinn-Cunningham, B. G., & Somers, D. C. (2016, May). “Frontal lobe contributions to auditory and visual working memory.” Presented at the annual meeting of the Vision Sciences Society, St. Pete Beach, FL. 
+[![]({{"/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2550742)
+
+* **Noyce, A. L.** & Sekuler, R. (2016, February). "Nonparametric statistical approaches to neuroimaging data." Presented at the the spring meeting of the Acoustical Society of America, Salt Lake City, UT.
+
+* **Noyce, A. L.**, Somers, D. C., & Shinn-Cunningham, B.G. (2016, February). "Auditory attention networks in the frontal lobe show strong sensory modality preferences." Presented at the annual midwinter meeting of the Association for Research in Otolaryngology, San Diego, CA.
+
+* Shinn-Cunningham, B., Michalka, S., **Noyce, A.**, & Somers, D. (2015, May). “Understanding cross-modal interactions of spatial and temporal information from a cortical perspective.” Presented at the spring meeting of the Acoustical Society of America, Pittsburgh, PA. [![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://scitation.aip.org/content/asa/journal/jasa/137/4/10.1121/1.4920623)
+
+* **Noyce, A.** & Sekuler, R. (2012, May). “Short-term memory resolution changes faster than capacity in visuomotor sequence learning.” Presented at the annual meeting of the Vision Sciences Society, Naples, FL. 
+[![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2141747) 
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2012NoyceSekulerVSS.pdf" | prepend: site.baseurl}})
+
+#### Posters
+
+* Bressler, S., Liu, D., Cunningham, W., Shinn-Cunningham, B., & **Noyce, A.** (2016, May). “Your brain doesn’t know: A visual P300 experiment of "The Dress".” Poster presented at the annual meeting of the Vision Sciences Society, St. Pete Beach, FL.
+[![]({{"/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2550207)
+
+* Cestero, N., **Noyce, A. L.**, Shinn-Cunningham, B. G., & Somers, D. C. (2016, May). “MVPA reveals specialization and generality of sensory-biased regions of frontal cortex.” Poster presented at the annual meeting of the Vision Sciences Society, St. Pete Beach, FL.
+[![]({{"/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2551046)
+
+* Lynch, J. D., **Noyce, A. L.**, Shinn-Cunningham, B. G., & Somers, D. C. (2016, May). “Memory capacity is further limited when sensory modality and task are mismatched.” Poster presented at the annual meeting of the Vision Sciences Society, St. Pete Beach, FL.
+[![]({{"/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2551030)
+
+* Levin, E. J., **Noyce, A. L.**, Michalka, S. W., Brissenden, J. A., Halko, M. A., & Somers, D. C. (2015, October). “Auditory-biased and visual-biased attentional subdivisions in the cerebellum revealed by functional magnetic resonance imaging.” Poster presented at the annual meeting of the Society for Neuroscience, Chicago, IL.
+
+* **Noyce, A. L.**, Michalka, S. W., Shinn-Cunningham, B. G., & Somers, D. C. (2015, October). “Auditory and visual biases in ‘multiple-demand’ regions of human lateral frontal cortex.” Poster presented at the annual meeting of the Society for Neuroscience, Chicago, IL.
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2015NoyceMichalkaShinnCunninghamSomersSfN.pdf" | prepend: site.baseurl}})
+
+* **Noyce, A. L.**, Cestero, N., Shinn-Cunningham, B. G., & Somers, D. C. (2015, May). “Space depends on time: Informational asymmetries in visual and auditory short-term memory.” Poster presented at the annual meeting of the Vision Sciences Society, St. Pete Beach, FL.
+[![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid= 2434164)
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2015NoyceCesteroShinnCunninghamSomersVSS.pdf" | prepend: site.baseurl}})
+
+* **Noyce, A. L.**, Somers, D. C., & Shinn-Cunningham, B. G. (2015, February). “Time vs. space: Modality- appropriateness and cross-modal recruitment in auditory and visual short-term memory.” Poster presented at the annual Association for Research in Otolaryngology midwinter meeting, Baltimore, MD. 
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2015NoyceSomersShinnCunninghamARO.pdf" | prepend: site.baseurl}})
+
+* Noyce, A. & Sekuler, R. (2014, May). “Individual differences in obligatory processing of unexpected, intentionally-ignored events.” Poster presented at the annual meeting of the Vision Sciences Society, St. Pete Beach, FL. 
+[![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2144931) 
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2014NoyceSekulerVSS.pdf" | prepend: site.baseurl}})
+
+* Noyce, A., Payne, L., & Sekuler, R. (2014, April). “Short-term memory requires stable modulation of EEG alpha oscillations.” Poster presented at the annual meeting of the Cognitive Neuroscience Society, Boston, MA. 
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2014NoycePayneSekulerCNS.pdf" | prepend: site.baseurl}})
+
+* Noyce, A. & Sekuler, R. (2013, October). “Leaky ignoring and the visual mismatch negativity in the flanker task.” Poster presented at the annual meeting of the Psychonomics Society.
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2013NoyceSekulerPsychonomics.pdf" | prepend: site.baseurl}})
+
+* Noyce, A. & Sekuler, R. (2012, April). “Source localization of EEG signals generated during sequence learning and expectation monitoring.” Poster presented at the annual meeting of the Cognitive Neuroscience Society, Chicago, IL.
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2012NoyceSekulerCNS.pdf" | prepend: site.baseurl}})
+
+* Noyce, A. & Sekuler, R. (2011, May). “Surprises are mistakes: An EEG source localization study of prediction errors.” Poster presented at the annual meeting of the Vision Sciences Society, Naples, FL.
+[![]({{"/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2139665)
+
+* Noyce, A., Maryott, J., & Sekuler, R. (2010, May). “Unexpected events, predictive eye movements, and imitation learning.” Poster presented at the annual meeting of the Vision Sciences Society, Naples, FL.
+[![]({{"/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2138886)
+[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2010NoyceSekulerVSS.pdf" | prepend: site.baseurl}})
+
+* Noyce, A., Dobiaś, J. J., Hetley, R., & Stine,W.W. (2007, August). “Distortion and rigidity in rotating random-dot textures.” Poster presented at the European Conference on Visual Perception, Arezzo, Italy.
+
+<!-- 
+#### Presentations at small workshops
+
+* Noyce, A. L. (2016, February). “Brain networks for audiovisual perception, attention, and learning.” Presented at the Network for the Science of Learning Awardees Meeting, Washington, DC.
+
+* Noyce, A. L., Shinn-Cunningham, B. G., & Somers, D. C. (2015, June). “Sensory bias and working memory recruitment are multiplexed in human frontal cortex.” Poster presented at NeuroHAM, Boston, MA.
+
+* Noyce, A., Payne, L., & Sekuler, R. (2014, March). “It’s hard to try harder: Improving short-term memory requires stable modulation of EEG alpha oscillations.” Poster presented at the inter-Science of Learning Centers conference, Pittsburgh, PA.
+
+* Noyce, A. & Sekuler, R. (2013, January). “Mistakes and mismatches: What drives learning?” Talk given at the Symposium for Boston-Area Graduate Students in Psychology, Boston, MA.
+
+* Noyce, A. & Sekuler, R. (2011, March). “Unexpected events in visuomotor sequences modify future expectations and activate error-monitoring systems.” Talk given at the inter-Science of Learning Centers conference, Washington, DC.
+
+* Noyce, A. L. & Stine, W. W. (2007, April). “Localized rigidity in animated textured planes viewed through an aperture.” Talk given at the Haslerud Conference, University of New Hampshire, Durham, NH.
+ -->
+
+---
+---
+Icons by Constantin Galaktionov, [http://thenounproject.com](http://thenounproject.com)
