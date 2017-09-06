@@ -8,7 +8,7 @@ permalink: /pubs/
 
 * **Noyce, A. L.**, Cestero, N., Michalka, S. W., Shinn-Cunningham, B. G., & Somers, D. C. (forthcoming). Sensory-biased and multiple-demand processing in human lateral frontal cortex. *Journal of Neuroscience*.
 * **Noyce, A. L.**, Cestero, N., Shinn-Cunningham, B. G., & Somers, D. C. (2016). Short-term memory stores are organized by information domain. *Attention, Perception, & Psychophsyics, 78*, 960-970.
-[![](/img/web.svg)](http://link.springer.com/article/10.3758/s13414-015-1056-5)
+[![]("/img/web.svg")](http://link.springer.com/article/10.3758/s13414-015-1056-5)
 * **Noyce, A.** & Sekuler, R. (2014). Oddball distractors demand attention: Neural and behavioral responses to predictability in the flanker task. *Neuropsychologia, 65*, 18–24. 
 [![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://www.sciencedirect.com/science/article/pii/S0028393214003625)
 [![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{ "/pdf/2014NoyceSekulerNeuropsychologia.pdf" | prepend: site.baseurl }})
