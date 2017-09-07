@@ -16,14 +16,17 @@ I study the cognitive shortcuts that the human brain takes in order to perform f
   </span>
  </div>
 
-###Sensory modalities
+### Sensory modalities
 
 Different senses are not only specialized to detect environmental energy; the neural machinery that supports vision and audition is also specialized to perform certain kinds of computations. Visual input is intrinsically spatial, and vision has an affinity for spatial information; auditory input is one-dimensional over time, and audition has a corresponding affinity for temporal information. I perform behavioral experiments testing whether and how these affinities interact in working memory, and fMRI experiments investigating how sensory-biased cortical areas may be recruited for specific tasks.
 
-####Modality-related current projects
+#### Modality-related publications and current projects
 
-* Noyce, A. L., Cestero, N., Shinn-Cunningham, B. G., & Somers, D. C. (in press). Short-term memory stores are organized by information domain. *Attention, Perception & Psychophysics*.
-* Noyce, A. L., Shinn-Cunningham, B. G., & Somers, D. C. (in preparation). Sensory-biased regions of lateral frontal cortex have multiple-demand properties.
+* **Noyce, A. L.**, Cestero, N., Michalka, S. W., Shinn-Cunningham, B. G., & Somers, D. C. (2017). Sensory-biased and multiple-demand processing in human lateral frontal cortex. *Journal of Neuroscience, 37*, 8755-8766.
+[![](/img/web.svg)](http://www.jneurosci.org/content/37/36/8755)
+* **Noyce, A. L.**, Cestero, N., Shinn-Cunningham, B. G., & Somers, D. C. (2016). Short-term memory stores are organized by information domain. *Attention, Perception, & Psychophsyics, 78*, 960-970.
+[![](/img/web.svg)](http://link.springer.com/article/10.3758/s13414-015-1056-5)
+* Lynch, J.L., Shinn-Cunningham, B. G., Somers, D. C., & **Noyce, A. L.** (in prep). Work- ing memory capacity estimates are better predicted by task domain than by sensory modality.
 
 ---
 ---
@@ -35,11 +38,11 @@ Different senses are not only specialized to detect environmental energy; the ne
   </span>
  </div>
 
-###Prediction
+### Prediction
 
 The human brain often works in a predictive, feedforward manner, recognizing a familiar context and anticipating upcoming events. I'm interested in how this learning happens (including what it means to "recognize a familiar context"), how anticipation supports cognition, and what happens when a novel, unexpected event occurs instead. I use behavioral studies and EEG/ERP techniques to determine the neural mechanisms that reflect this learning and expectation, and those that respond to deviant or unexpected events.
 
-####Prediction-related publications and current projects
+#### Prediction-related publications and current projects
 * Noyce, A. & Sekuler, R. (2014). Oddball distractors demand attention: Neural and behavioral responses to predictability in the flanker task. *Neuropsychologia, 65*, 18–24. 
 [![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://www.sciencedirect.com/science/article/pii/S0028393214003625)
 [![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{ "/pdf/2014NoyceSekulerNeuropsychologia_FINAL_SUBMISSION.pdf" | prepend: site.baseurl }})
