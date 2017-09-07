@@ -6,7 +6,7 @@ permalink: /pubs/
 
 ### Peer-reviewed publications
 
-* **Noyce, A. L.**, Cestero, N., Michalka, S. W., Shinn-Cunningham, B. G., & Somers, D. C. (2017). Sensory-biased and multiple-demand processing in human lateral frontal cortex. *Journal of Neuroscience*.
+* **Noyce, A. L.**, Cestero, N., Michalka, S. W., Shinn-Cunningham, B. G., & Somers, D. C. (2017). Sensory-biased and multiple-demand processing in human lateral frontal cortex. *Journal of Neuroscience, 37*, 8755-8766.
 [![](/img/web.svg)](http://www.jneurosci.org/content/37/36/8755)
 * **Noyce, A. L.**, Cestero, N., Shinn-Cunningham, B. G., & Somers, D. C. (2016). Short-term memory stores are organized by information domain. *Attention, Perception, & Psychophsyics, 78*, 960-970.
 [![](/img/web.svg)](http://link.springer.com/article/10.3758/s13414-015-1056-5)
