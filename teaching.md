@@ -6,7 +6,7 @@ permalink: /teaching/
 
 <div class="callout">
 Course websites and teaching materials
-  <span style="font-family: Helvetica,Arial,sans-serif">
+  <span style="font-family: Helvetica,Arial,sans-serif; font-size: small;">
    <ul>
    <li>How I teach hands-on and active classes - post for the MIT ESP teacher blog, fall 2015. <a href="http://mitesp.tumblr.com/post/132883469383/how-i-teach-hands-on-and-active-classes"><img src="{{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}}" /></a></li>
    <li>"Neuro 101" for Perception students. <a href="/pdf/neuro101.pdf"><img src="{{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}}" /></a></li>
