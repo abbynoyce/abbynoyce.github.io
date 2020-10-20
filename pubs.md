@@ -6,6 +6,15 @@ permalink: /pubs/
 
 ### Peer-reviewed publications
 
+* Bulger, E., Shinn-Cunningham, B. G., & **Noyce, A. L.** (in press). Distractor probabilities modulate flanker task performance. *Attention, Perception, & Psychophysics.*
+* Bonacci, L., Bressler, S., **Noyce, A. L.**, & Shinn-Cunningham, B. G. (2020). Effects of visual scene complexity on neural signatures of spatial attention. *Frontiers in Human Neuroscience*, *14*, 91.
+[![](/img/web.svg)](https://www.frontiersin.org/articles/10.3389/fnhum.2020.00091/full)
+* Fleming, J., **Noyce, A. L.**, & Shinn-Cunningham, B. G. (2020). Behavioral and neural evidence that the pip and pop effect survives audio-visual spatial incongruence. *Neuropsychologia*, *146*, 107530.
+[![](/img/web.svg)](https://www.sciencedirect.com/science/article/abs/pii/S0028393220302037)
+* Lefco, R. W., Brissenden, J. A., **Noyce, A. L.**, Tobyne, S. M., & Somers, D. C. (2020). Gradients of functional organization in posterior parietal cortex revealed by visual attention, visual short-term memory, and intrinsic functional connectivity. *NeuroImage*, *219*, 117029.
+[![](/img/web.svg)](https://www.sciencedirect.com/science/article/pii/S1053811920305152)
+* Tobyne, S. M., Somers, D. C., Brissenden, J. A., Michalka, S. W., **Noyce, A. L.**, & Osher, D. E. (2018). Prediction of individualized task activation in sensory-modality selective frontal cortex with ‘connectome fingerprinting’. *NeuroImage*, *183*, 173–185.
+[![](/ing/web.svg)](https://www.sciencedirect.com/science/article/abs/pii/S1053811918306931)
 * **Noyce, A. L.**, Cestero, N., Michalka, S. W., Shinn-Cunningham, B. G., & Somers, D. C. (2017). Sensory-biased and multiple-demand processing in human lateral frontal cortex. *Journal of Neuroscience, 37*, 8755-8766.
 [![](/img/web.svg)](http://www.jneurosci.org/content/37/36/8755)
 * **Noyce, A. L.**, Cestero, N., Shinn-Cunningham, B. G., & Somers, D. C. (2016). Short-term memory stores are organized by information domain. *Attention, Perception, & Psychophsyics, 78*, 960-970.
