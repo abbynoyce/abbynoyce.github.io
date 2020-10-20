@@ -4,10 +4,8 @@ title: Bio and CV
 permalink: /bio/
 ---
 
-Abby Noyce is a Research Assistant Professor in the [Department of Psychological and Brain Sciences](http://www.bu.edu/psych/) at [Boston University](http://bu.edu), in the [laboratory of David Somers](http://sites.bu.edu/fmri). I also work closely with [Barbara Shinn-Cunningham](http://cns.bu.edu/~shinn/).
+Abby Noyce is Special Faculty in the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/) at [Carnegie Mellon University](http://cmu.edu). I'm a member of the [Laboratory in Multisensory Neuroscience](https://www.cmu.edu/dietrich/psychology/shinn/) and an affiliate of the [CMU Neuroscience Institute](https://www.cmu.edu/ni/).
 
-I completed my Ph.D. in Psychology (specializing in Cognitive Neuroscience) at Brandeis University in 2014, working with [Robert Sekuler](http://people.brandeis.edu/~sekuler).
-
-I received my B.A. in psychology from the University of New Hampshire in 2007, with a minor in mathematics. While there, I worked as a research assistant in a behavioral neuroscience lab, and completed a senior thesis examining the interaction between motion cues and perspective cues in depth perception.
+I received my B.A. in psychology from the University of New Hampshire in 2007, with a minor in mathematics. I completed my Ph.D. in Psychology (specializing in Cognitive Neuroscience) at Brandeis University in 2014, working with [Robert Sekuler](http://people.brandeis.edu/~sekuler). My postdoc work was at Boston University from 2014-2019 with David Somers.
 
 [My full CV ![]({{ "/img/pdf.svg" }})]({{"/pdf/Noyce_CV.pdf" }}).
