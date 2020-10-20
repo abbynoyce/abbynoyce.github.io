@@ -31,12 +31,19 @@ permalink: /pubs/
 
 ### Conference presentations
 
-#### Talks
+#### Talks (as presenting author)
+
+* **Noyce, A. L.**, Lefco, R., Brissenden, J. A., Tobyne, S. M., Somers, D. C., & Shinn-Cunningham,
+B. G. (2019, February). "Extended frontal networks for auditory cognition." Presented at the annual midwinter meeting of the Association for Research in Otolaryngology, Balti- more, MD.
+
+* **Noyce, A. L.**, Tobyne, S. M., Shinn-Cunningham, B. G., & Somers, D. C. (2018, November). "Sensory-selective and sensory-independent auditory and visual working memory in human cerebral cortex." Presented at the annual meeting of the Society for Neuro- science, San Diego, CA.
+
+* **Noyce, A. L.**, Tobyne, S. M., Michalka, S. W., Osher, D. E., Shinn-Cunningham, B. G., & Somers, D. C. (2017, May). "Visual, spatial, or visuospatial? Disentangling sensory modality and task demands in frontal cortex." Presented at the annual meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
 * **Noyce, A. L.**, Tobyne, S. M., Michalka, S. W., Osher, D. E., Shinn-Cunningham, B. G., & Somers, D. C. (2016, May). “Visual, spatial, or visuospatial? Disentangling sensory modality and task demands in frontal cortex.” Presented at the annual meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
 * **Noyce, A. L.**, Michalka, S. W., Cestero, N., Shinn-Cunningham, B. G., & Somers, D. C. (2016, May). “Frontal lobe contributions to auditory and visual working memory.” Presented at the annual meeting of the Vision Sciences Society, St. Pete Beach, FL. 
-[![]({{"/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2550742)
+[![](/img/web.svg)](http://jov.arvojournals.org/article.aspx?articleid=2550742)
 
 * **Noyce, A. L.** & Sekuler, R. (2016, February). "Nonparametric statistical approaches to neuroimaging data." Presented at the the spring meeting of the Acoustical Society of America, Salt Lake City, UT.
 
