@@ -11,3 +11,4 @@ github_username:  abbynoyce
 
 # Build settings
 markdown: kramdown
+include: ['resources']
