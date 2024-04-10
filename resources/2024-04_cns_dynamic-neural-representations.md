@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-permalink: /research/
 ---
 
 I study the cognitive shortcuts that the human brain takes in order to perform feats of perception, attention, and memory. I'm particularly interested in predictability, and in the specializations of different sensory modalities.
