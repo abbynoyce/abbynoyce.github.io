@@ -10,7 +10,7 @@ Abigail Noyce, Wenkang (Winko) An, Weizhe Guo, Yuhang (Will) Li, Barbara Shinn-C
 
 ### Poster PDF
 
-[![]({{"/resources/2024-04_cns_dynamic-neural-representations.png" | prepend: site.baseurl | prepend: site.url}})]({{ "/pdf/2024-04_NoyceAnGuoLiShinnCunningham_dynamic-neural-representations.pdf" | prepend: site.baseurl }})
+[![]({{"/resources/2024-04_cns_dynamic-neural-representations_preview.png" | prepend: site.baseurl | prepend: site.url}})]({{ "/pdf/2024-04_NoyceAnGuoLiShinnCunningham_dynamic-neural-representations.pdf" | prepend: site.baseurl }})
 
 ### Our preprint (currently in revisions)
 
