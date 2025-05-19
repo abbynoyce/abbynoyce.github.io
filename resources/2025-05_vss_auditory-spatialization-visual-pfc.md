@@ -10,7 +10,7 @@ Abigail Noyce, Wusheng Liang, Madhumitha Manjunath, Sahil Luthra, Christopher Br
 
 ### All cited work
 
-Shinn-Cunningham, B., Liang, W., & Brown, C. A. (2023). Realistic interaural level differences help listeners suppress auditory distractors. Poster presented at the midwinter meeting of the Association for Research in Otolaryngology (and paper coming soon!). [![](/img/web.svg)](https://doi.org/10.1121/10.0022967)
+Liang, W., Brown, C., Noyce, A., & Shinn-Cunningham, B. (2022). Realistic interaural level differences help listeners suppress auditory distractors. Poster presented at the midwinter meeting of the Association for Research in Otolaryngology (and paper coming soon!). [![](/img/pdf.svg)](https://www.apc.casa/dl/2024_ARO__Liang.pdf)
 
 Higgins, N. C., McLaughlin, S. A., Rinne, T., & Stecker, G. C. (2017). Evidence for cue-independent spatial representation in the human auditory cortex during active listening. *PNAS*, *114*, E7602–E7611. [![](/img/web.svg)](http://doi.org/10.1073/pnas.1707522114)
 
