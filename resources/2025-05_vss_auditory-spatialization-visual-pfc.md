@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Auditory spatial cues do not influence cross-modal recruitment of visual prefrontal cortex - VSS 2025
+title: Auditory spatial cues do not influence cross-modal recruitment of visual prefrontal cortex (VSS 2025)
 ---
 
-## Auditory spatial cues do not influence cross-modal recruitment of visual prefrontal cortex
+
 Abigail Noyce, Wusheng Liang, Madhumitha Manjunath, Sahil Luthra, Christopher Brown, Barbara Shinn-Cunningham
 
 ---
