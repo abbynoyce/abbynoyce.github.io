@@ -6,7 +6,22 @@ permalink: /pubs/
 
 ### Peer-reviewed publications
 
-* Bulger, E., Shinn-Cunningham, B. G., & **Noyce, A. L.** (in press). Distractor probabilities modulate flanker task performance. *Attention, Perception, & Psychophysics.*
+* Villalonga, M. B., **Noyce, A. L.**, & Sekuler, R. (2025). Dynamic modulation of spatial selection: Online and anticipatory adjustments in the flanker task. *Attention, Perception, & Psychophysics*, *87*, 794-814.
+[![](/img/web.svg)](https://link.springer.com/article/10.3758/s13414-025-03026-5)
+* **Noyce, A. L.**, Varghese, L., Mathias, S. R., & Shinn-Cunningham, B. G. (2024). Perceptual organization and task demands jointly shape auditory working memory capacity. *JASA Express Letters*, *4*(3), 034402.
+[![](/img/web.svg)](https://pubs.aip.org/asa/jel/article/4/3/034402/3278914)
+* Fleming, J. T., Njoroge, J. M., **Noyce, A. L.**, Perrachione, T. K., & Shinn-Cunningham, B. G. (2024). Sensory modality and information domain contribute jointly to dual-task interference between working memory and perceptual processing. *Imaging Neuroscience*, *2*, 1–22.
+[![](/img/web.svg)](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00130/120270)
+* Kwasa, J. A. C., **Noyce, A. L.**, Torres, L. M., Richardson, B., & Shinn-Cunningham, B. G. (2023). Top-down attention modulates auditory-evoked neural responses more strongly in neurotypical than ADHD young adults. *Brain Research*, *1798*, 148144.
+[![](/img/web.svg)](https://www.sciencedirect.com/science/article/pii/S0006899322003687)
+* **Noyce, A. L.**, Kwasa, J. A. C., & Shinn-Cunningham, B. G. (2023). Defining attention from an auditory perspective. *WIREs Cognitive Science*, *14*(1), e1610.
+[![](/img/web.svg)](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcs.1610)
+* **Noyce, A. L.**, Lefco, R., Tobyne, S. M., Brissenden, J. A., Shinn-Cunningham, B. G., & Somers, D. C. (2022). Extended frontal networks for visual and auditory working memory. *Cerebral Cortex*, *32*(4), 855–869.
+[![](/img/web.svg)](https://academic.oup.com/cercor/article/32/4/855/6360523)
+* Bulger, E., Shinn-Cunningham, B. G., & **Noyce, A. L.** (2021). Distractor probabilities modulate flanker task performance. *Attention, Perception, & Psychophysics*, *83*, 866-881.
+[![](/img/web.svg)](https://link.springer.com/article/10.3758/s13414-020-02151-7)
+* Somers, D. C., Michalka, S. W., Tobyne, S. M., & **Noyce, A. L.** (2021). Individual subject approaches to mapping sensory-biased and multiple-demand regions in human frontal cortex. *Current Opinion in Behavioral Sciences*, *40*, 169–177.
+[![](/img/web.svg)](https://www.sciencedirect.com/science/article/abs/pii/S2352154621001108)
 * Bonacci, L., Bressler, S., **Noyce, A. L.**, & Shinn-Cunningham, B. G. (2020). Effects of visual scene complexity on neural signatures of spatial attention. *Frontiers in Human Neuroscience*, *14*, 91.
 [![](/img/web.svg)](https://www.frontiersin.org/articles/10.3389/fnhum.2020.00091/full)
 * Fleming, J., **Noyce, A. L.**, & Shinn-Cunningham, B. G. (2020). Behavioral and neural evidence that the pip and pop effect survives audio-visual spatial incongruence. *Neuropsychologia*, *146*, 107530.
@@ -29,6 +44,8 @@ permalink: /pubs/
 [![](/img/web.svg)](http://jov.arvojournals.org/article.aspx?articleid=2191765) 
 [![](/img/pdf.svg)]({{"/pdf/2011MaryottNoyceSekulerJoV.pdf" | prepend: site.baseurl }}) <br /> *authors contributed equally
 
+<!-- 
+#### Presentations at small workshops
 ### Conference presentations
 
 #### Talks (as presenting author)
@@ -101,8 +118,7 @@ B. G. (2019, February). "Extended frontal networks for auditory cognition." Pres
 
 * Noyce, A., Dobiaś, J. J., Hetley, R., & Stine,W.W. (2007, August). “Distortion and rigidity in rotating random-dot textures.” Poster presented at the European Conference on Visual Perception, Arezzo, Italy.
 
-<!-- 
-#### Presentations at small workshops
+
 
 * Noyce, A. L. (2016, February). “Brain networks for audiovisual perception, attention, and learning.” Presented at the Network for the Science of Learning Awardees Meeting, Washington, DC.
 

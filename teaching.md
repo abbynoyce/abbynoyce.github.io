@@ -4,7 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<div class="callout">
+At CMU, I usually teach 85-310, Research Methods in Cognitive Psychology. This course was revamped in 2025 with support from a CMU Libraries grant for Open Educational Resources; the revamped course emphasises guided labs of data collection and analysis, as well as a student-directed final project.
+
+
+<!-- <div class="callout">
 Course websites and teaching materials
   <span style="font-family: Helvetica,Arial,sans-serif; font-size: small;">
    <ul>
@@ -19,5 +22,5 @@ At Boston University, I supervise and mentor undergraduate and graduate students
 
 At Brandeis, I TAed for Intro to Psychology, Statistics, Research Methods, Intro to Cognitive Neuroscience, and Perception. In spring of 2012, I taught Perception: Human, Animal, and Machine. I also supervised and mentored undergraduate students working in the lab.
 
-I also do outreach teaching with the MIT Educational Studies Program. I've taught short, one-off classes for Splash and Spark since 2004, and in summers 2008 and 2009, I taught a six-week "Intro to Cognitive Neuroscience" class for Junction.
+I also do outreach teaching with the MIT Educational Studies Program. I've taught short, one-off classes for Splash and Spark since 2004, and in summers 2008 and 2009, I taught a six-week "Intro to Cognitive Neuroscience" class for Junction. -->
 
