@@ -1,6 +1,6 @@
 # Site settings
 title: Abigail Noyce
-email: anoyce@bu.edu
+email: anoyce@cmu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Abigail Noyce is a cognitive neuroscientist who studies human attention and 
   short-term memory.
@@ -11,4 +11,3 @@ github_username:  abbynoyce
 
 # Build settings
 markdown: kramdown
-include: ['resources']
