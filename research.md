@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I'm a cognitive neuroscientist who works on attention and working memory. My central focus is on how our sensory input constrains and shapes higher-level cognition. A second line of work focuses on predictability and expectation.
+I'm a cognitive neuroscientist who studies on attention and working memory. My central area of investigation is  how our sensory input constrains and shapes higher-level cognition. A second line of work tests the role of predictability and expectation.
 
 {% include image-gallery.html folder="/poster-gallery" %}
 
