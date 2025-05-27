@@ -6,12 +6,13 @@ permalink: /research/
 
 I'm a cognitive neuroscientist who studies on attention and working memory. My central area of investigation is  how our sensory input constrains and shapes higher-level cognition. A second line of work tests the role of predictability and expectation.
 
+As co-director of CMU's Laboratory in Multisensory Neuroscience, I work with trainees on a wide variety of research questions and methodological approaches. Our skills span from basic psychophysics to complex neuroimaging work.
+
 ---
 
-## Recent posters
+## Recent posters from our group
 
 {% include image-gallery.html folder="/poster-gallery" %}
-
 
 ---
 
