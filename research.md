@@ -4,7 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-I study the cognitive shortcuts that the human brain takes in order to perform feats of perception, attention, and memory. I'm particularly interested in predictability, and in the specializations of different sensory modalities.
+I'm a cognitive neuroscientist who works on attention and working memory. My central focus is on how our sensory input constrains and shapes higher-level cognition. A second line of work focuses on predictability and expectation.
+
+{% include image-gallery.html folder="/uploads/album" %}
 
 ---
 ---
