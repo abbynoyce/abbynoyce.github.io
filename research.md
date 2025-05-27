@@ -12,6 +12,8 @@ As co-director of CMU's Laboratory in Multisensory Neuroscience, I work with tra
 
 ## Recent posters from our group
 
+Images link to full pdf; will open in new tab.
+
 {% include image-gallery.html folder="/poster-gallery" %}
 
 ---
