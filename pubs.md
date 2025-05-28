@@ -6,6 +6,8 @@ permalink: /pubs/
 
 ### Peer-reviewed publications
 
+Updated May 2025. Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=y2ZkuLwAAAAJ) or [NCBI MyBibliography](https://scholar.google.com/citations?hl=en&user=y2ZkuLwAAAAJ&view_op=list_works&inst=3203679203499159833).
+
 * Villalonga, M. B., **Noyce, A. L.**, & Sekuler, R. (2025). Dynamic modulation of spatial selection: Online and anticipatory adjustments in the flanker task. *Attention, Perception, & Psychophysics*, *87*, 794-814.
 [![](/img/web.svg)](https://link.springer.com/article/10.3758/s13414-025-03026-5)
 * **Noyce, A. L.**, Varghese, L., Mathias, S. R., & Shinn-Cunningham, B. G. (2024). Perceptual organization and task demands jointly shape auditory working memory capacity. *JASA Express Letters*, *4*(3), 034402.
