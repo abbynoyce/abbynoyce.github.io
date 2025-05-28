@@ -8,6 +8,8 @@ I'm a cognitive neuroscientist who studies on attention and working memory. My c
 
 As co-director of CMU's Laboratory in Multisensory Neuroscience, I work on a wide variety of research questions and methodological approaches. Our skills span from basic psychophysics to complex neuroimaging work.
 
+Below are recent posters from our group, as well as brief descriptions of my current research areas. Publications are listed under [Publications](/pubs)
+
 ---
 
 ## Recent LiMN posters
@@ -18,50 +20,29 @@ Images link to full pdf; will open in new tab.
 
 ---
 
-<div class="callout">
-  <span style="font-family: Helvetica,Arial,sans-serif; font-size: small;">
-   <img src = "{{ "/img/VAST.png" | prepend: site.baseurl | prepend: site.url}}" /> 
-   Working memory accuracy for spatial information (blue) is highest in a purely visual task (VV), while accuracy for temporal information (orange) is highest in a purely auditory task (AA). Adapted from Noyce et al. (2016), <em>Attention, Perception, & Psychophysics</em>.
-  </span>
- </div>
+## Cortical networks for visual and auditory short-term memory
 
-### Sensory modalities
-
-Different senses are not only specialized to detect environmental energy; the neural machinery that supports vision and audition is also specialized to perform certain kinds of computations. Visual input is intrinsically spatial, and vision has an affinity for spatial information; auditory input is one-dimensional over time, and audition has a corresponding affinity for temporal information. I perform behavioral experiments testing whether and how these affinities interact in working memory, and fMRI experiments investigating how sensory-biased cortical areas may be recruited for specific tasks.
-
-#### Modality-related publications and current projects
-
-* **Noyce, A. L.**, Cestero, N., Michalka, S. W., Shinn-Cunningham, B. G., & Somers, D. C. (2017). Sensory-biased and multiple-demand processing in human lateral frontal cortex. *Journal of Neuroscience, 37*, 8755-8766.
-[![](/img/web.svg)](http://www.jneurosci.org/content/37/36/8755)
-* **Noyce, A. L.**, Cestero, N., Shinn-Cunningham, B. G., & Somers, D. C. (2016). Short-term memory stores are organized by information domain. *Attention, Perception, & Psychophsyics, 78*, 960-970.
-[![](/img/web.svg)](http://link.springer.com/article/10.3758/s13414-015-1056-5)
-* Lynch, J.L., Shinn-Cunningham, B. G., Somers, D. C., & **Noyce, A. L.** (in prep). Work- ing memory capacity estimates are better predicted by task domain than by sensory modality.
+I established a robust, reliable method of using fMRI to map sensory-biased cortical networks, using auditory and visual working memory activation in individual subjects. I have characterized the resulting networks’ cognition, exploring their extent, behavior, and connectivity. These results have shown that discrete sub-regions of prefrontal cortex have strong preferences for specific sensory modalities. Auditory-biased networks are slightly left-lateralized, and are extremely selective for auditory cognition; visual-biased networks are slightly right-lateralized, and are more general in their activation.
 
 ---
+
+## Distinguishing auditory attention states
+
+I have shown when and where in the brain auditory attention is represented, using fMRI and EEG neuroimaging data in cojunction with representational analysis tecniques. While many aspects of attention are similar regardless of what is being attended to, the underlying brain states carry critical information about the cue or feature that is being used. Our results have demonstrated that the target of auditory attention is briefly represented in evoked neural responses, but sustained in oscillatory activity. We have also identified key regions in sensory, parietal, and prefrontal cortex that  encode attentional state.
+
 ---
 
-<div class="callout">
-  <span style="font-family: Helvetica,Arial,sans-serif; font-size: small;">
-   <img src = "{{ "/img/vMMN.png" | prepend: site.baseurl | prepend: site.url}}" /> 
-   The neural response to a rarely-occurring distractor produces a negative electrical field over visual/posterior areas of the brain. This corresponds with a dramatic enhancement of the effect of the distractor, such that people are fastest and most accurate when the distractor matches the target (top green line), and slowest and least accurate when it is different (bottom green line). Adapted from Noyce & Sekuler (2014), <em>Neuropsychologia</em>.
-  </span>
- </div>
+## Perceptual organization in working memory
 
-### Prediction
+By exploring the relationships among perceptual organiztion, inter-stimulus similarity, and working memory task demands, I have shown that the perceptual grouping of sound objects into memory items critically impacts their accessibility at memory retrieval. This work builds on my doctoral exploration of the learning processes by which arbitrary visuospatial trajectories become familiar paths.
 
-The human brain often works in a predictive, feedforward manner, recognizing a familiar context and anticipating upcoming events. I'm interested in how this learning happens (including what it means to "recognize a familiar context"), how anticipation supports cognition, and what happens when a novel, unexpected event occurs instead. I use behavioral studies and EEG/ERP techniques to determine the neural mechanisms that reflect this learning and expectation, and those that respond to deviant or unexpected events.
+---
+## Information domains associated with sensory modality. 
 
-#### Prediction-related publications and current projects
-* Noyce, A. & Sekuler, R. (2014). Oddball distractors demand attention: Neural and behavioral responses to predictability in the flanker task. *Neuropsychologia, 65*, 18–24. 
-[![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://www.sciencedirect.com/science/article/pii/S0028393214003625)
-[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{ "/pdf/2014NoyceSekulerNeuropsychologia_FINAL_SUBMISSION.pdf" | prepend: site.baseurl }})
-* Noyce, A. & Sekuler, R. (2014). Violations of newly-learned predictions elicit two distinct P3 components. *Frontiers in Human Neuroscience, 8*, 374. 
-[![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://journal.frontiersin.org/article/10.3389/fnhum.2014.00374/abstract) 
-[![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{ "/pdf/2014NoyceSekulerFrontiers.pdf" | prepend: site.baseurl }})
+Vision’s innate affinity for spatial information an audition’s innate affinity for temporal information affect people’s ability to encode information into workin memory. Further, spatial attention and working memory activate brain activity that is characteristic of visual processing, regardless of sensory modality. I have developed appropriately-matched visual and auditory tasks probing these processes, and find that when task demands require auditory spatial processing, or visual temporal processing, people recruit cognitive machinery usually associated with the “other” sensory modality.
 
-* Maryott, J., Noyce, A., & Sekuler, R. (2011). Eye movements and imitation learning: Intentional disruption of expectation. *Journal of Vision, 11*(1:7), 1–16.
-[![]({{ "/img/web.svg" | prepend: site.baseurl | prepend: site.url}})](http://jov.arvojournals.org/article.aspx?articleid=2191765) [![]({{ "/img/pdf.svg" | prepend: site.baseurl | prepend: site.url}})]({{"/pdf/2011MaryottNoyceSekulerJoV.pdf" | prepend: site.baseurl }}) <br /> *authors contributed equally
-* Noyce, A. & Sekuler, R. (in preparation). Dynamic reallocation of VSTM resources.
+---
 
+## Prediction and familiarity of distractors in attention 
 
-
+Most studies of attention have disregarded the non-target distractors; my work explores how predictability of the distractors supports focused attention. Across these projects, we tested the probability of various distractor configurations, as well as testing the role of predictable timing. Across the board, we find that predictable distractors are easier to ignore, leading to better attention performance.
