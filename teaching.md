@@ -7,6 +7,13 @@ permalink: /teaching/
 At CMU, I usually teach 85-310, Research Methods in Cognitive Psychology. This course was revamped in 2025 with support from a CMU Libraries grant for Open Educational Resources; the revamped course emphasises guided labs of data collection and analysis, as well as a student-directed final project.
 
 
+## Teaching Resources
+<ul>
+{% for item in site.teaching %}
+  <li><a href="{{ item.url }}">{{ item.title }} - {{ staff_member.position }}</a></li>
+{% endfor %}
+</ul>
+
 <!-- <div class="callout">
 Course websites and teaching materials
   <span style="font-family: Helvetica,Arial,sans-serif; font-size: small;">

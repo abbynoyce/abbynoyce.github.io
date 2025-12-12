@@ -6,8 +6,11 @@ description: > # this means to ignore newlines until "baseurl:"
   short-term memory.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://abbynoyce.github.io" # the base hostname & protocol for your site
-twitter_username: abbynoyce
+# twitter_username: abbynoyce
 github_username:  abbynoyce
+collections:
+  teaching:
+    output: true
 
 # Build settings
 markdown: kramdown
