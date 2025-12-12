@@ -13,33 +13,69 @@ With support from a CMU Libraries grant for open eductional resources, I redesig
 ----
 
 ## Course outline
-### Course overview, syllabus review, introductions (Week 1)
-<p>This week is for previewing the course as a whole, getting to know each other, and setting expectations.</p>
-<ul>
-	<li><a href="https://learningstatisticswithr.com/book/why-do-we-learn-statistics.html">Reading: Why do we learn statistics? (Navarro 2019)</a> (existing OER)</li>
-	<li>Assignment: Data Skills Refresher 1</li>
-	<li>Assignment: Data Skills Refresher 2</li>
-</ul>
 
-### Lab 1 Skittles Tasting (Week 2-3)
-This lab introduces factorial experimental designs with categorical predictors. We step away from computerized tasks to do something in the "real world". Students work as a class to develop an experimental protocol and collect data. They analyze that data (using R Notebooks) to compute summary statistics and a factorial ANOVA, and submit a lab report.
+<h3>Course overview, syllabus review, introductions (Week 1)</h3>
+<p>This week is for previewing the course as a whole, getting to know each other, and setting expectations.</p>
+
+<details><summary>Readings</summary>
 <ul>
-	<li><a href= "https://learningstatisticswithr.com/book/studydesign.html">Reading: A brief introduction to research design (Navarro 2019)</a> (existing OER)</li>
-	<li>Reading: Inferential statistics </li>
-	<li>Reading: Comparing means</li>
-	<li><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo8273985.html">Reading: Turning your evidence into arguments (Harmon & Gross 2010)</a> (not open)</li>
-	<li>Assignment: Data Skills Refresher 3</li>
-	<li>Assignment: Data Skills Refresher 4</li>
-	<li>Assignment: Lab 1 Report</li>
-	<li>Resource: Lab 1 sample code</li>
-	<li>Quiz: Research questions, operational definitions, reliability and validity, descriptive statistics</li>
+	<li><a href="https://learningstatisticswithr.com/book/why-do-we-learn-statistics.html">Why do we learn statistics? (Navarro 2019)</a> (existing OER)</li>
 </ul>
+</details>
+
+<details><summary>Homework</summary>
+	<ul>
+		<li><a href="/pdf/ds1_intro-to-r.pdf">Data Skills Refresher 1 (pdf)</a></li>
+		<li>Data Skills Refresher 2</li>
+	</ul>
+</details>
+
+
+<details>
+	<summary><h3 style="display:inline-block">Lab 1 Skittles Tasting (Week 2-3)</h3></summary>
+	<p>This lab introduces factorial experimental designs with categorical predictors. We step away from computerized tasks to do something in the "real world". Students work as a class to develop an experimental protocol and collect data. They analyze that data (using R Notebooks) to compute summary statistics and a factorial ANOVA, and submit a lab report. Students also are assessed on four learning outcomes: research questions, operational definitions, reliability and validity, descriptive statistics</p>
+	<details>
+		<summary>Readings</summary>
+		<ul>
+			<li><a href= "https://learningstatisticswithr.com/book/studydesign.html">A brief introduction to research design (Navarro 2019)</a> (existing OER)</li>
+			<li>Inferential statistics (newly created OER)</li>
+			<li>Comparing means (newly created OER)</li>
+			<li><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo8273985.html">Turning your evidence into arguments (Harmon & Gross 2010, Ch. 4)</a> (not open)</li>
+		</ul>
+	</details>
+	<details>
+		<summary>Lab 1 Materials</summary>
+		<ul>
+			<li>Instructor guide</li>
+			<li>Lab 1 handout</li>
+			<li>Lab 1 sample code</li>
+			<li>Assignment: Lab 1 Report</li>
+		</ul>
+	</details>
+	<details>
+		<summary>Homework</summary>
+		<ul>
+			<li>Data Skills Refresher 3</li>
+			<li>Data Skills Refresher 4</li>
+		</ul>
+	</details>
+</details>
 
 ### Lab 2 Visual Search (Weeks 4-5)
 This lab introduces a computerized experiment control platform (https://gorilla.sc), continuous predictors, and interaction terms in linear regression
 
 <ul>
-	<li>Reading:</li>
-	<li>Assignment</li>
-	<li>Resource</li>
+	<li>Reading: Linear regression</li>
+	<li><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo8273985.html">Reading: Drawing your conclusions (Harmon & Gross 2010, Ch. 5)</a> (not open)</li>
+	<li><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo8273985.html">Reading: Framing your methods (Harmon & Gross 2010, Ch. 6)</a> (not open)</li>
+	<li>Assignment: QALMRI critique - Horowitz & Wolfe (1998)</li>
+	<li>Assignment: Lab 2-1 Report</li>
+	<li>Assignment: Lab 2-2 Report</li>
+	<li>Resource: Lab 2 sample code</li>
 </ul>
+
+----
+## Sources
+Materials are adapted from a number of sources, including:
+- The PsyTeachR project (based at the University of Glasgow): https://psyteachr.org
+- Danielle Navarro's *Learning Statistics With R*: https://learningstatisticswithr.com/
