@@ -10,7 +10,7 @@ At CMU, I usually teach 85-310, Research Methods in Cognitive Psychology. This c
 ## Teaching Resources
 <ul>
 {% for item in site.teaching %}
-  <li><a href="{{ item.url }}">{{ item.title }} - {{ staff_member.position }}</a></li>
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
 </ul>
 
