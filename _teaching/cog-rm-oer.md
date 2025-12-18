@@ -86,10 +86,10 @@ With support from a CMU Libraries grant for open eductional resources, I redesig
 	<ul>
 		<li>Lab 2 instructor guide</li>
 		<li>Lab 2 Gorilla project</li>
-		<li><a href="../cog-rm-resources/lab2-sample-code.pdf">Lab 2 sample code</a></li>
+		<li><a href="../cog-rm-resources/lab2-sample-code.pdf">Lab 2 sample code</a> (newly created OER)</li>
 		<li>Assignment: Lab 2 class example - data analysis and interpretation</li>
-		<li><a href="../cog-rm-resources/lab1-skittles-handout.pdf">Lab 2 handout</a></li>
-		<li><a href="../cog-rm-resources/lab2-rr-spec.pdf">Assignment: Lab 2 Report</a></li>
+		<li><a href="../cog-rm-resources/lab1-skittles-handout.pdf">Lab 2 handout</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/lab2-rr-spec.pdf">Assignment: Lab 2 Report</a> (newly created OER)</li>
 		<li><a href = "../cog-rm-resources/research-report-rubric.pdf">Research Report Rubric</a> (newly created OER)</li>
 	</ul>
 </details>
