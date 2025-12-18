@@ -34,12 +34,14 @@ With support from a CMU Libraries grant for open eductional resources, I redesig
 		<li><a href="../cog-rm-resources/ds2_basic-data-skills.pdf">Data Skills Refresher 2</a> (newly created OER)</li>
 	</ul>
 </details>
-
 <p></p>
+
 <h3>Lab 1 Skittles Tasting (Week 2-3)</h3>
+
 <p>This lab introduces factorial experimental designs with categorical predictors. We step away from computerized tasks to do something in the "real world". Students read chapters reviewing research design, descriptive and inferential statistics, *t*-test and ANOVA, and the communication of research results. They work as a class to develop an experimental protocol and collect data; then analyze that data (using R Notebooks) to compute summary statistics and a factorial ANOVA, and submit a lab report.</p>
 
 <p>Students also are assessed on four learning outcomes: research questions, operational definitions, reliability and validity, descriptive statistics (these assessments are not shared here).</p>
+
 <details><summary>Readings</summary>
 	<ul>
 		<li><a href= "https://learningstatisticswithr.com/book/studydesign.html">A brief introduction to research design (Navarro 2019)</a> (existing OER)</li>
@@ -86,8 +88,8 @@ With support from a CMU Libraries grant for open eductional resources, I redesig
 		<li>Lab 2 Gorilla project</li>
 		<li><a href="../cog-rm-resources/lab2-sample-code.pdf">Lab 2 sample code</a></li>
 		<li>Assignment: Lab 2 class example - data analysis and interpretation</li>
-		<li>Lab 2 handout</li>
-		<li>Assignment: Lab 2 Report</li>
+		<li><a href="../cog-rm-resources/lab1-skittles-handout.pdf">Lab 2 handout</a></li>
+		<li><a href="../cog-rm-resources/lab2-rr-spec.pdf">Assignment: Lab 2 Report</a></li>
 		<li><a href = "../cog-rm-resources/research-report-rubric.pdf">Research Report Rubric</a> (newly created OER)</li>
 	</ul>
 </details>
