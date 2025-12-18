@@ -56,7 +56,7 @@ With support from a CMU Libraries grant for open eductional resources, I redesig
 		<li><a href="/pdf/lab1-skittles-handout.pdf">Lab 1 handout</a> (newly created OER)</li>
 		<li><a href="/pdf/lab1-sample-code.pdf">Lab 1 sample code</a> (newly created OER)</li>
 		<li><a href="/pdf/lab1-rr-spec.pdf">Assignment: Lab 1 Report</a> (newly created OER)</li>
-		<li><a href = "/pdf/research-report-rubric.pdf">Research Report Rubric</a> (newly created OER)</li>
+		<li><a href = "../pdf/research-report-rubric.pdf">Research Report Rubric</a> (newly created OER)</li>
 	</ul>
 </details>
 
@@ -88,7 +88,7 @@ With support from a CMU Libraries grant for open eductional resources, I redesig
 		<li>Assignment: Sample experiment - data analysis and interpretation</li>
 		<li>Lab 2 handout</li>
 		<li>Assignment: Lab 2 Report</li>
-		<li><a href = "/pdf/research-report-rubric.pdf">Research Report Rubric</a> (newly created OER)</li>
+		<li><a href = "../pdf/research-report-rubric.pdf">Research Report Rubric</a> (newly created OER)</li>
 	</ul>
 </details>
 
