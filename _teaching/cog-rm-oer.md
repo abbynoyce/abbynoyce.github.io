@@ -30,22 +30,22 @@ With support from a CMU Libraries grant for open eductional resources, I redesig
 
 <details><summary>Homework</summary>
 	<ul>
-		<li><a href="/pdf/ds1_intro-to-r.pdf">Data Skills Refresher 1</a> (newly created OER)</li>
-		<li><a href="/pdf/ds2_basic-data-skills.pdf">Data Skills Refresher 2</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/ds1_intro-to-r.pdf">Data Skills Refresher 1</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/ds2_basic-data-skills.pdf">Data Skills Refresher 2</a> (newly created OER)</li>
 	</ul>
 </details>
 
 <p></p>
 <h3>Lab 1 Skittles Tasting (Week 2-3)</h3>
-<p>This lab introduces factorial experimental designs with categorical predictors. We step away from computerized tasks to do something in the "real world". Students read chapters reviewing research design, inferential statistics, statistical tests comparing means, and communicating research results. They work as a class to develop an experimental protocol and collect data; then analyze that data (using R Notebooks) to compute summary statistics and a factorial ANOVA, and submit a lab report.</p>
+<p>This lab introduces factorial experimental designs with categorical predictors. We step away from computerized tasks to do something in the "real world". Students read chapters reviewing research design, descriptive and inferential statistics, *t*-test and ANOVA, and the communication of research results. They work as a class to develop an experimental protocol and collect data; then analyze that data (using R Notebooks) to compute summary statistics and a factorial ANOVA, and submit a lab report.</p>
 
 <p>Students also are assessed on four learning outcomes: research questions, operational definitions, reliability and validity, descriptive statistics (these assessments are not shared here).</p>
 <details><summary>Readings</summary>
 	<ul>
 		<li><a href= "https://learningstatisticswithr.com/book/studydesign.html">A brief introduction to research design (Navarro 2019)</a> (existing OER)</li>
-		<li><a href="/pdf/descriptive-stats.pdf">Descriptive statistics</a> (newly created OER)</li>
-		<li><a href="/pdf/inferential-stats.pdf">Inferential statistics</a> (newly created OER)</li>
-		<li><a href="/pdf/comparing-means.pdf">Comparing means</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/descriptive-stats.pdf">Descriptive statistics</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/inferential-stats.pdf">Inferential statistics</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/comparing-means.pdf">Comparing means</a> (newly created OER)</li>
 		<li><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo8273985.html">Turning your evidence into arguments (Harmon & Gross 2010, Ch. 4)</a> (not open)</li>
 	</ul>
 </details>
@@ -53,17 +53,17 @@ With support from a CMU Libraries grant for open eductional resources, I redesig
 <details><summary>Lab 1 Materials</summary>
 	<ul>
 		<li>Lab 1 Instructor guide</li>
-		<li><a href="/pdf/lab1-skittles-handout.pdf">Lab 1 handout</a> (newly created OER)</li>
-		<li><a href="/pdf/lab1-sample-code.pdf">Lab 1 sample code</a> (newly created OER)</li>
-		<li><a href="/pdf/lab1-rr-spec.pdf">Assignment: Lab 1 Report</a> (newly created OER)</li>
-		<li><a href = "../pdf/research-report-rubric.pdf">Research Report Rubric</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/lab1-skittles-handout.pdf">Lab 1 handout</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/lab1-sample-code.pdf">Lab 1 sample code</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/lab1-rr-spec.pdf">Assignment: Lab 1 Report</a> (newly created OER)</li>
+		<li><a href = "../cog-rm-resources/research-report-rubric.pdf">Research Report Rubric</a> (newly created OER)</li>
 	</ul>
 </details>
 
 <details><summary>Homework</summary>
 	<ul>
-		<li><a href="/pdf/ds3_data-wrangling.pdf">Data Skills Refresher 3</a> (newly created OER)</li>
-		<li><a href="/pdf/ds4_reconding-and-joins.pdf">Data Skills Refresher 4</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/ds3_data-wrangling.pdf">Data Skills Refresher 3</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/ds4_recoding-and-joins.pdf">Data Skills Refresher 4</a> (newly created OER)</li>
 	</ul>
 </details>
 
@@ -74,7 +74,7 @@ With support from a CMU Libraries grant for open eductional resources, I redesig
 
 <details><summary>Readings</summary>
 	<ul>
-		<li><a href="/pdf/linear-regression.pdf">Linear regression</a> (newly created OER)</li>
+		<li><a href="../cog-rm-resources/linear-regression.pdf">Linear regression</a> (newly created OER)</li>
 		<li><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo8273985.html">Drawing your conclusions (Harmon & Gross 2010, Ch. 5)</a> (not open)</li>
 		<li><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo8273985.html">Framing your methods (Harmon & Gross 2010, Ch. 6)</a> (not open)</li>
 	</ul>
@@ -82,13 +82,13 @@ With support from a CMU Libraries grant for open eductional resources, I redesig
 
 <details><summary>Lab 2 Materials</summary>
 	<ul>
-		<li>Lab 2 Instructor Guide</li>
-		<li>Lab 2 Gorilla Project</li>
-		<li>Lab 2 sample code</li>
-		<li>Assignment: Sample experiment - data analysis and interpretation</li>
+		<li>Lab 2 instructor guide</li>
+		<li>Lab 2 Gorilla project</li>
+		<li><a href="../cog-rm-resources/lab2-sample-code.pdf">Lab 2 sample code</a></li>
+		<li>Assignment: Lab 2 class example - data analysis and interpretation</li>
 		<li>Lab 2 handout</li>
 		<li>Assignment: Lab 2 Report</li>
-		<li><a href = "../pdf/research-report-rubric.pdf">Research Report Rubric</a> (newly created OER)</li>
+		<li><a href = "../cog-rm-resources/research-report-rubric.pdf">Research Report Rubric</a> (newly created OER)</li>
 	</ul>
 </details>
 
