@@ -11,6 +11,8 @@ github_username:  abbynoyce
 collections:
   teaching:
     output: true
+  research:
+    output: true
 
 # Build settings
 markdown: kramdown
