@@ -6,8 +6,11 @@ permalink: /pubs/
 
 ### Peer-reviewed publications
 
-Updated May 2025. Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=y2ZkuLwAAAAJ) or [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/sites/myncbi/abigail.noyce.1/bibliography/public/).
+Updated May 2026. Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=y2ZkuLwAAAAJ) or [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/sites/myncbi/abigail.noyce.1/bibliography/public/).
 
+* Figarola, V., Li, Y., Tierney, A. T., Dick, F., **Noyce, A.**, Maddox, R. K., & Shinn-Cunningham, B. G. (2026). Attention to psuedo-tone melodies enhances cortical but not brainstem responses in humans. *Journal of Neuroscience*, e1754252026. [![](/img/web.svg)](https://www.jneurosci.org/content/46/18/e1754252026)
+* Liang, W., **Noyce, A. L.**, Brown, C. A., & Shinn-Cunningham, B. G. (2025). Cat-astrophic update: What makes an interrupter more disruptive? *Journal of the Acoustical Society of America(, 158, 4048–4058. [![](/img/web.svg)](https://pubs.aip.org/asa/jasa/article/158/5/4048/3373028/Cat-astrophic-update-What-makes-an-interrupter)
+* Tobyne, S. M., Brissenden, J. A., **Noyce, A. L.**, & Somers, D. C. (2025). Combined auditory, tactile, and visual fMRI reveals sensory-biased and supramodal working memory regions in human frontal cortex. *Journal of Neuroscience*, 45(38), 1–18. [![](/img/web.svg)](https://www.jneurosci.org/content/45/38/e0773252025)
 * Villalonga, M. B., **Noyce, A. L.**, & Sekuler, R. (2025). Dynamic modulation of spatial selection: Online and anticipatory adjustments in the flanker task. *Attention, Perception, & Psychophysics*, *87*, 794-814.
 [![](/img/web.svg)](https://link.springer.com/article/10.3758/s13414-025-03026-5)
 * **Noyce, A. L.**, Varghese, L., Mathias, S. R., & Shinn-Cunningham, B. G. (2024). Perceptual organization and task demands jointly shape auditory working memory capacity. *JASA Express Letters*, *4*(3), 034402.
