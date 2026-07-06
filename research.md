@@ -22,7 +22,7 @@ Images link to full pdf; will open in new tab.
 
 ## Cortical networks for visual and auditory short-term memory
 
-{: style="text-align:center; font-size: small;"}
+{: style="text-align:center; font-size: small; text-width: 50%;"}
 > ![](img/a-v-tactile_tobyne.jpg){: width="50%"}
 > 
 > Prototypical visual- (blue) and auditory-biased (orange) regions overlain on tactile-biased regions (Tobyne et al., 2025).
@@ -54,7 +54,7 @@ cortex.
 
 ## Distinguishing auditory attention states
 
-{: style="text-align:center; font-size: small;"}
+{: style="text-align:center; font-size: small; text-width: 50%;"}
 > ![](img/abr-null_figarola.jpg){: width="50%"}
 > 
 > Auditory brainstem responses elicited by attended (green) and ignored (black) stimuli are indistinguishable (Figarola et al., 2026).
@@ -89,7 +89,7 @@ between neurotypical and ADHD young adults.
 
 ## Perceptual organization in working memory
 
-{: style="text-align:center; font-size: small;"}
+{: style="text-align:center; font-size: small; text-width: 50%;"}
 > ![](img/stim-task-ixn_noyce.jpeg){: width="50%"}
 > 
 > Listeners are significantly better at recognizing individual everyday sounds (orange), but much better at recognizing sequences of tones (blue, Noyce et al. 2024).
