@@ -42,6 +42,13 @@ working memory in the same participants — has revealed both
 modality-biased and supramodal working memory regions in human frontal
 cortex.
 
+- * Tobyne, S. M., Brissenden, J. A., **Noyce, A. L.**, & Somers, D. C. (2025). Combined auditory, tactile, and visual fMRI reveals sensory-biased and supramodal working memory regions in human frontal cortex. *Journal of Neuroscience*, 45(38), 1–18. [![](/img/web.svg)](https://www.jneurosci.org/content/45/38/e0773252025)
+
+- * **Noyce, A. L.**, Lefco, R., Tobyne, S. M., Brissenden, J. A., Shinn-Cunningham, B. G., & Somers, D. C. (2022). Extended frontal networks for visual and auditory working memory. *Cerebral Cortex*, *32*(4), 855–869.
+[![](/img/web.svg)](https://academic.oup.com/cercor/article/32/4/855/6360523)
+
+- * Lefco, R. W., Brissenden, J. A., **Noyce, A. L.**, Tobyne, S. M., & Somers, D. C. (2020). Gradients of functional organization in posterior parietal cortex revealed by visual attention, visual short-term memory, and intrinsic functional connectivity. *NeuroImage*, *219*, 117029.
+
 ---
 
 ## Distinguishing auditory attention states
