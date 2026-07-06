@@ -25,9 +25,9 @@ Images link to full pdf; will open in new tab.
 
 
 ![](img/a-v-tactile_tobyne.jpg){: width="50%"}
-<div style="width: 50%; font-size: small; margin: 5%;">
+<span style="width: 50%; font-size: small; margin: 5%;">
 Prototypical visual- and auditory-biased regions overlain on tactile-biased regions (Tobyne et al., 2025).
-</div>
+</span>
 
 I established a robust, reliable method of using fMRI to map sensory-biased
 cortical networks, using auditory and visual working memory activation in
