@@ -57,7 +57,7 @@ cortex.
 {: style="text-align:center; font-size: small;"}
 > ![](img/abr-null_figarola.jpg){: width="50%"}
 > 
-> Auditory brainstem responses elicited by attended and ignored stimuli are indistinguishable.
+> Auditory brainstem responses elicited by attended and ignored stimuli are indistinguishable (Figarola et al., 2026)
 
 Using fMRI and EEG in conjunction with representational analysis
 techniques, I have shown when and where in the brain auditory attention
@@ -76,6 +76,14 @@ theoretical framework for defining attention from an auditory
 perspective, and has surfaced individual differences in how strongly
 top-down attention modulates auditory-evoked responses — for example,
 between neurotypical and ADHD young adults.
+
+* Figarola, V., Li, Y., Tierney, A. T., Dick, F., **Noyce, A.**, Maddox, R. K., & Shinn-Cunningham, B. G. (2026). Attention to psuedo-tone melodies enhances cortical but not brainstem responses in humans. *Journal of Neuroscience*, e1754252026. [![](/img/web.svg)](https://www.jneurosci.org/content/46/18/e1754252026)
+
+* **Noyce, A. L.**, Kwasa, J. A. C., & Shinn-Cunningham, B. G. (2023). Defining attention from an auditory perspective. *WIREs Cognitive Science*, *14*(1), e1610.
+[![](/img/web.svg)](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcs.1610)
+
+* Kwasa, J. A. C., **Noyce, A. L.**, Torres, L. M., Richardson, B., & Shinn-Cunningham, B. G. (2023). Top-down attention modulates auditory-evoked neural responses more strongly in neurotypical than ADHD young adults. *Brain Research*, *1798*, 148144.
+[![](/img/web.svg)](https://www.sciencedirect.com/science/article/pii/S0006899322003687)
 
 ---
 
