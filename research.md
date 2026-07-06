@@ -25,7 +25,7 @@ Images link to full pdf; will open in new tab.
 
 
 ![](img/a-v-tactile_tobyne.jpg){: width="50%"}
-<div style="width: 50%, size: small">
+<div style="width: 50%; font-size: small; flot: right;">
 Prototypical visual- and auditory-biased regions overlain on tactile-biased regions (Tobyne et al., 2025).
 </div>
 
