@@ -57,7 +57,7 @@ cortex.
 {: style="text-align:center; font-size: small;"}
 > ![](img/abr-null_figarola.jpg){: width="50%"}
 > 
-> Auditory brainstem responses elicited by attended (green) and ignored (black) stimuli are indistinguishable (Figarola et al., 2026)
+> Auditory brainstem responses elicited by attended (green) and ignored (black) stimuli are indistinguishable (Figarola et al., 2026).
 
 Using fMRI and EEG in conjunction with representational analysis
 techniques, I have shown when and where in the brain auditory attention
@@ -89,6 +89,11 @@ between neurotypical and ADHD young adults.
 
 ## Perceptual organization in working memory
 
+{: style="text-align:center; font-size: small;"}
+> ![](img/stim-task-ixn_noyce.jpeg){: width="50%"}
+> 
+> Listeners are significantly better at recognizing individual everyday sounds (orange), but much better at recognizing sequences of tones (blue, Noyce et al. 2024).
+
 By exploring the relationships among perceptual organization,
 inter-stimulus similarity, and working memory task demands, I have shown
 that how listeners group sound objects into memory items critically impacts
@@ -96,6 +101,11 @@ their accessibility at retrieval. This work builds on my doctoral
 exploration of the learning processes by which arbitrary visuospatial
 trajectories become familiar paths.
 
+* **Noyce, A. L.**, Varghese, L., Mathias, S. R., & Shinn-Cunningham, B. G. (2024). Perceptual organization and task demands jointly shape auditory working memory capacity. *JASA Express Letters*, *4*(3), 034402.
+[![](/img/web.svg)](https://pubs.aip.org/asa/jel/article/4/3/034402/3278914)
+
+* Maryott, J., **Noyce, A.**, & Sekuler, R. (2011). Eye movements and imitation learning: Intentional disruption of expectation. *Journal of Vision, 11*(1:7), 1–16. 
+[![](/img/web.svg)](http://jov.arvojournals.org/article.aspx?articleid=2191765)
 ---
 ## Information domains associated with sensory modality. 
 
