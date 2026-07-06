@@ -25,8 +25,8 @@ Images link to full pdf; will open in new tab.
 
 
 ![](img/a-v-tactile_tobyne.jpg){: width="50%"}
-<div style="width: 50%">
-*Prototypical visual- and auditory-biased regions overlain on tactile-biased regions (Tobyne et al., 2025).*
+<div style="width: 50%, size: small">
+Prototypical visual- and auditory-biased regions overlain on tactile-biased regions (Tobyne et al., 2025).
 </div>
 
 I established a robust, reliable method of using fMRI to map sensory-biased
