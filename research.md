@@ -22,7 +22,7 @@ Images link to full pdf; will open in new tab.
 
 ## Cortical networks for visual and auditory short-term memory
 
-![](img/a-v-tactile_tobyne.jpg){: width="50%"}
+->![](img/a-v-tactile_tobyne.jpg){: width="50%"}<-
 
 <span style="width: 50%; font-size: small; margin: 5%;">
 Prototypical visual- and auditory-biased regions overlain on tactile-biased regions (Tobyne et al., 2025).
