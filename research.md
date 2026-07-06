@@ -21,11 +21,10 @@ Images link to full pdf; will open in new tab.
 ---
 
 ## Cortical networks for visual and auditory short-term memory
-<div style="width:20%; margin: auto;">
+{: }
 ![](img/a-v-tactile_tobyne.jpg) 
+*Prototypical visual- and auditory-biased regions overlain on tactile-biased regions (Tobyne et al., 2025).*
 
-*Prototypical visual- and auditory-biased regions overlain on tactile-biased regions (Tobyne et al., 2025). *
-</div>
 
 I established a robust, reliable method of using fMRI to map sensory-biased
 cortical networks, using auditory and visual working memory activation in
