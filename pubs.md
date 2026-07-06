@@ -29,7 +29,7 @@ Updated May 2026. Full list on [Google Scholar](https://scholar.google.com/citat
 [![](/img/web.svg)](https://www.sciencedirect.com/science/article/abs/pii/S2352154621001108)
 * Bonacci, L., Bressler, S., **Noyce, A. L.**, & Shinn-Cunningham, B. G. (2020). Effects of visual scene complexity on neural signatures of spatial attention. *Frontiers in Human Neuroscience*, *14*, 91.
 [![](/img/web.svg)](https://www.frontiersin.org/articles/10.3389/fnhum.2020.00091/full)
-* Fleming, J., **Noyce, A. L.**, & Shinn-Cunningham, B. G. (2020). Behavioral and neural evidence that the pip and pop effect survives audio-visual spatial incongruence. *Neuropsychologia*, *146*, 107530.
+* Fleming, J., **Noyce, A. L.**, & Shinn-Cunningham, B. G. (2020). Audio-visual spatial alignment improves integration in the presence of a competing audio-visual stimulus. *Neuropsychologia*, *146*, 107530.
 [![](/img/web.svg)](https://www.sciencedirect.com/science/article/abs/pii/S0028393220302037)
 * Lefco, R. W., Brissenden, J. A., **Noyce, A. L.**, Tobyne, S. M., & Somers, D. C. (2020). Gradients of functional organization in posterior parietal cortex revealed by visual attention, visual short-term memory, and intrinsic functional connectivity. *NeuroImage*, *219*, 117029.
 [![](/img/web.svg)](https://www.sciencedirect.com/science/article/pii/S1053811920305152)
