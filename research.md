@@ -106,7 +106,9 @@ trajectories become familiar paths.
 
 * Maryott, J., **Noyce, A.**, & Sekuler, R. (2011). Eye movements and imitation learning: Intentional disruption of expectation. *Journal of Vision, 11*(1:7), 1–16. 
 [![](/img/web.svg)](http://jov.arvojournals.org/article.aspx?articleid=2191765)
+
 ---
+
 ## Information domains associated with sensory modality. 
 
 Vision's innate affinity for spatial information and audition's innate
