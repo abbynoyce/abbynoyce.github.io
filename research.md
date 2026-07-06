@@ -54,6 +54,11 @@ cortex.
 
 ## Distinguishing auditory attention states
 
+{: style="text-align:center; font-size: small;"}
+> ![](img/abr-null_figarola.jpg){: width="50%"}
+> 
+> Auditory brainstem responses elicited by attended and ignored stimuli are indistinguishable.
+
 Using fMRI and EEG in conjunction with representational analysis
 techniques, I have shown when and where in the brain auditory attention
 is represented. While many aspects of attention are similar regardless of
