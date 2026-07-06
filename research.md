@@ -25,7 +25,7 @@ Images link to full pdf; will open in new tab.
 {: style="text-align:center; font-size: small;"}
 > ![](img/a-v-tactile_tobyne.jpg){: width="50%"}
 > 
-> Prototypical visual- and auditory-biased regions overlain on tactile-biased regions (Tobyne et al., 2025).
+> Prototypical visual- (blue) and auditory-biased (orange) regions overlain on tactile-biased regions (Tobyne et al., 2025).
 
 I established a robust, reliable method of using fMRI to map sensory-biased
 cortical networks, using auditory and visual working memory activation in
@@ -57,7 +57,7 @@ cortex.
 {: style="text-align:center; font-size: small;"}
 > ![](img/abr-null_figarola.jpg){: width="50%"}
 > 
-> Auditory brainstem responses elicited by attended and ignored stimuli are indistinguishable (Figarola et al., 2026)
+> Auditory brainstem responses elicited by attended (green) and ignored (black) stimuli are indistinguishable (Figarola et al., 2026)
 
 Using fMRI and EEG in conjunction with representational analysis
 techniques, I have shown when and where in the brain auditory attention
